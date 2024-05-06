@@ -34,7 +34,12 @@
         <div id="weather-data" class="hide">
             <h2>
                 <i class="fa-solid fa-location-dot"></i>
-                <spam id="city">Paulista</spam>
+                <span id="city">Paulista</span>
+                <img 
+                 src="https://flagsapi.com/BR/shiny/64.png"
+                 alt=" Bandeira Do País"
+                 height="24px"
+                 id="country">
             </h2>
              <p id="temperature"><span>31</span>&deg;C</p>
              <div id="description-container">
@@ -54,28 +59,17 @@
                 </p>
                 <p id="wind">
                     <i class="fa-solid fa-wind"></i>
-                    <span>4 Km/h</span>
+                    <span>4 KM/H</span>
  
                 </p>  
-
-
-             </div>
-
-
-
-
-
-            
-
-
-
-
-              
-
-
-
-        </div> 
+         </div>
+   </div>
+   <div id ="error-message" class="hide">
+     <p> A Cidade <span>nome</span> Não Existe!</p>
+   </div>
+   <div id="loader" class="hide">
+        <i class="fa-solid fa-spinner"></i>
+   </div>
     </div>
-
 </body>
 </html>

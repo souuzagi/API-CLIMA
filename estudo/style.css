@@ -15,6 +15,13 @@
         align-items: center;
         height: 100vh;
      }
+
+/* Esconder algumas áreas quando necessário */
+.hide{
+    display: none;
+}
+
+
 .container {
     background-color: #5c54ed;
     box-shadow: rgba(0,0,0,0.24) 0px 3px 8px;
@@ -49,7 +56,9 @@
 }
 
 /* Clima */
-#weather-data{
+#weather-data,
+#error-message,
+#loader{
     border-top: 1px solid;
     margin-top: 1.5rem;
     padding-top: 1.5rem;
@@ -64,6 +73,9 @@
     margin: 0.6rem;
 }
 
+#description{
+    text-transform: capitalize;
+}
 #description-container{
     display: flex;
     justify-content: center;
