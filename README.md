@@ -20,7 +20,7 @@ O Projeto consistia em realiza uma interação com a API do Open Weather Map par
 ![](img/imagem2.png)
 
 **Cidade Não Encontrada**
-![]
+![](img/imagem3.png)
 
 
 ## Autores do Projeto
