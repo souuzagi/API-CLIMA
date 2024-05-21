@@ -1,7 +1,7 @@
 # Projeto API do Clima
 
 ## Descrição do Projeto
-O projeto consistia em realiza uma interação com a API do Open Weather Map para obter as condições climáticas do momento de acordo com a cidade informada.
+O Projeto consistia em realiza uma interação com a API do Open Weather Map para obter as condições climáticas do momento de acordo com a cidade informada.
 
 ## Tecnologias Utilizadas
 * HTML
