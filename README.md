@@ -16,8 +16,12 @@ O Projeto consistia em realiza uma interação com a API do Open Weather Map par
 **Tela Inicial**
 ![](img/imagem1.png)
 
-**API FUNCIONANDO**
-![](
+**Cidade Encontrada**
+![](img/imagem2.png)
+
+**Cidade Não Encontrada**
+![]
+
 
 ## Autores do Projeto
 Cauã Vital, Gislaine Souza, Kawany Helen, Laís Vitória, Maria Isabel, Sanmara Lins e Shamara Karolina.
